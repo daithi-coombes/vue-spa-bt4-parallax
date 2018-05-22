@@ -6,7 +6,7 @@
           <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
           <b-navbar-brand href="#">
-            <h3 class="title">My Spunky Company</h3>
+            <h3 class="title">Vue spa btc parallax</h3>
           </b-navbar-brand>
 
           <b-collapse is-nav id="nav_collapse">

@@ -77,7 +77,7 @@ if (process.env.NODE_ENV === 'production') {
       }
     }),
     new HtmlWebpackPlugin({
-      title: 'PRODUCTION prerender-spa-plugin',
+      title: 'Vue spa btc parallax',
       template: 'index.html',
       filename: path.resolve(__dirname, 'dist/index.html'),
       favicon: 'favicon.ico'
@@ -104,7 +104,7 @@ if (process.env.NODE_ENV === 'production') {
       }
     }),
     new HtmlWebpackPlugin({
-      title: 'DEVELOPMENT prerender-spa-plugin',
+      title: 'Vue spa btc parallax - Dev',
       template: 'index.html',
       filename: 'index.html',
       favicon: 'favicon.ico'

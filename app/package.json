@@ -1,8 +1,8 @@
 {
-  "name": "prerender-spa-plugin-example-vue2-webpack-router",
+  "name": "vue-spa-bt4-parallax",
   "version": "1.0.0",
   "private": true,
-  "author": "Drew Lustro <drewlustro@gmail.com>",
+  "author": "Daithi Coombes <webeire@gmail.com>",
   "scripts": {
     "start": "node_modules/.bin/http-server ./dist",
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
